@@ -29,7 +29,7 @@ The dataset is was donated in 2008 by Isabele Guyon. The values were generated v
 Information regarding the construction and MATLAB code of the dataset can be found in the Dataset E section in [Design of experiments for the NIPS 2003 variable selction benchmark](https://archive.ics.uci.edu/ml/machine-learning-databases/madelon/Dataset.pdf). 
 
 
-Additonal resources by the same author and all around cool lady with a very basic html website,[Isabelle Guyon](http://www.clopinet.com/isabelle/).
+Additonal resources by the same author and all around cool lady with a very basic html website, [Isabelle Guyon](http://www.clopinet.com/isabelle/).
 
 
 Isabelle Guyon, et al, 2007. Competitive baseline methods set new standards for the NIPS 2003 feature selection benchmark. Pattern Recognition Letters 28 (2007) 1438–1444. 
@@ -37,7 +37,6 @@ and the associated technical report:
 Isabelle Guyon, et al. 2006. [Feature selection with the CLOP package.](http://clopinet.com/isabelle/Projects/ETH/TM-fextract-class.pdf) Technical Report. 
 
 Surprisingly, the "Madelon Dataset" has a mere 7k hits on a Google Search, which probably means it exists in some obscurity. The 80-20 rule is probably an apt description in that the minority (20%) of those who know the data set understand 80%, while the majority (80%) who have heard of it may only understand 20%. Whichever the case, perhaps by the end of this project, we will be in the minority. 
-![Google Madelon Hits](https://i.imgur.com/J7u0ldP.png)
 
 
 
@@ -80,8 +79,8 @@ Further description, visualization, and memory usage of the data is available in
 Nonsparse indicates that absence of NULL values in the dataset. Values are of numeric type.
 
 Data on the data sets, their dimensions, and memory usage follow:
-| **Set** | **Dimensions** | **Memory (in MB)** |
-| :---: | :---: | :---: |
+| Set | Dimensions | Memory (in MB) |
+| --- | ---| --- |
 | Training Set | 2000 x 500 | 6.9 |
 | Validation Set | 599 x 500 | 1.2 |
 | Test Set | 1800 x 500 | 3.5 | 
